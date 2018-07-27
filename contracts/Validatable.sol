@@ -7,7 +7,7 @@ contract Validatable is Ownable {
 	// Event created on validator gets added
 	event ValidatorAdded (address validator);
 	event ValidatorRemoved (address validator);
-	uint8 requiredValidators = 0;
+	uint8 public requiredValidators = 0;
 	uint256 public validatorCount = 0;
 
 	mapping (address=>bool) public validators;

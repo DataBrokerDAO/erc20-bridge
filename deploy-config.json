@@ -1,0 +1,19 @@
+{
+  "requiredValidators": 1,
+  "validatorSeeds": [
+    "gallery item fork uncover olympic ostrich kangaroo announce flag achieve cause sick exact purpose cost",
+    "fancy brain zone inside bargain bomb own popular soldier front body hint toddler inch soldier",
+    "auction valley clump juice narrow unknown among globe volume neck away patient grace husband army"
+  ],
+  "testAccountSeed": "shock body city antique crystal alter theme stuff orient primary flash royal rigid scan owner",
+  "providers": {
+    "home": {
+      "seed": "puppy firm kit zero jelly script update alter ring rail zero gasp crawl meat know",
+      "url": "https://ropsten.infura.io/v3/ff14ab704c0c4c2eb1238a0023b9e6cd"
+    },
+    "foreign": {
+      "seed": "strategy curve flag rare mechanic cruise great body spoil old job rent tube can circle",
+      "url": "https://mintnet.settlemint.com"
+    }
+  }
+}
